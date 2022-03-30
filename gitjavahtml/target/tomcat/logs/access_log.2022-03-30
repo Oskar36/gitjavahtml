@@ -1,0 +1,12 @@
+127.0.0.1 - - [30/Mar/2022:12:22:28 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-1 423
+127.0.0.1 - - [30/Mar/2022:12:22:36 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-2 1
+127.0.0.1 - - [30/Mar/2022:12:22:41 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-3 1
+127.0.0.1 - - [30/Mar/2022:12:22:42 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-4 1
+127.0.0.1 - - [30/Mar/2022:12:22:42 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-5 1
+127.0.0.1 - - [30/Mar/2022:12:22:42 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-6 1
+0:0:0:0:0:0:0:1 - - [30/Mar/2022:12:23:09 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1695 http-bio-8081-exec-8 2
+0:0:0:0:0:0:0:1 - - [30/Mar/2022:12:23:09 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-10 0
+127.0.0.1 - - [30/Mar/2022:12:28:18 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1105 http-bio-8081-exec-2 42
+127.0.0.1 - - [30/Mar/2022:12:30:10 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1163 http-bio-8081-exec-4 23
+127.0.0.1 - - [30/Mar/2022:12:31:48 +0200] "GET /gitjavahtml/ HTTP/1.1" 200 1202 http-bio-8081-exec-6 25
+127.0.0.1 - - [30/Mar/2022:12:31:51 +0200] "GET /gitjavahtml/g1/indexg1.jsp HTTP/1.1" 404 1003 http-bio-8081-exec-6 2
